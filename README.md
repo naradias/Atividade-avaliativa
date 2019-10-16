@@ -6,6 +6,7 @@ QUESTÃO 2
 #letra a)
 
 void main() {
+
  int num1=10;
  int num2=12;
  String text='Aula de topicos especiais';
